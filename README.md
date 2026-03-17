@@ -6,4 +6,4 @@ Tools Used:
 - Terraform
 - Azure
 
-Implemented by: Sandeep
+Implemented by: Sandeep Ponugoti
